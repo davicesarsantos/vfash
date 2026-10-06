@@ -21,7 +21,7 @@ Projeto criado para praticar **HTML, CSS e JavaScript**, desenvolvendo uma inter
 
 ## 🔗 Projeto
 
-🌐 **Site:** [[https://davicesarsantos.github.io/V-FASHION/]]
+🌐 **Site:** [[https://davicesarsantos.github.io/vfash/]]
 
 💻 **Código:** [https://github.com/davicesarsantos/V-FASHION]
 
